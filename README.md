@@ -26,7 +26,7 @@ My name is Sarah Anyango and I am a self-taught fullstack developer. I enjoy the
 
 <a href="https://www.linkedin.com/in/sarah-anyango/" align="center"> 
 <img alt="Sarah's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-<p style="font-size:1.3rem">Find me on LinkedIn too</p>
+<p style="font-size:1.3rem">Find me on LinkedIn too!</p>
 </a>
 <br>
 
