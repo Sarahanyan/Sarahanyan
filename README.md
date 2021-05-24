@@ -1,11 +1,11 @@
-<section style="width:80%; margin:0 auto">
-### Hello there :smiley: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<div align="center"><br>
 
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=Sarahanyan.Sarahanyan) -->
+### **Hello there** :smiley: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 My name is Sarah Anyango and I am a self-taught fullstack developer. I enjoy the building fullstack web applications to solve any type of problem. Whether it be backend or frontend, I like and respect the process. I am ever enthustiatic  about diving in and learning something new about a programming language that I did not know before.
 
-**Languages and Tools:**  
+**Languages and Tools:** 
+
 <code style="margin:0.25rem;"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code style="margin:0.25rem;"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code style="margin:0.25rem;"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
@@ -24,14 +24,17 @@ My name is Sarah Anyango and I am a self-taught fullstack developer. I enjoy the
 
 📫 Feel free to email me: saranyango@gmail.com
 
-<a href="https://www.linkedin.com/in/abhisheknaiidu/" style="background-color:red;">
-  <img align="left" alt="Sarah's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="margin-right:0.3rem;" />
-  <p>Find me on LinkedIn too</p>
-</a><br>
+<div style="margin-left:20%; background-color:#caf0f8; height: 22px">
+<a href="https://www.linkedin.com/in/sarah-anyango/"> 
+<img align="left" alt="Sarah's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="margin-right:0.5rem;" />
+  <p align="left" style="font-size:1.3rem">Find me on LinkedIn too</p>
+</a>
+</div>
+<br>
 
 
-📈 **My GitHub Stats**
+### 📈 **My GitHub Stats**
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Sarahanyan&show_icons=true&theme=gotham&hide=contribs,stars" alt="Sarahanyans github stats" />
 
-</section>
+</div>
