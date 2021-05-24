@@ -24,17 +24,15 @@ My name is Sarah Anyango and I am a self-taught fullstack developer. I enjoy the
 
 📫 Feel free to email me: saranyango@gmail.com
 
-<div style="margin-left:20%; background-color:#caf0f8; height: 22px">
-<a href="https://www.linkedin.com/in/sarah-anyango/"> 
-<img align="left" alt="Sarah's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="margin-right:0.5rem;" />
-  <p align="left" style="font-size:1.3rem">Find me on LinkedIn too</p>
+<a href="https://www.linkedin.com/in/sarah-anyango/" align="center"> 
+<img alt="Sarah's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<p style="font-size:1.3rem">Find me on LinkedIn too</p>
 </a>
-</div>
 <br>
 
 
 ### 📈 **My GitHub Stats**
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Sarahanyan&show_icons=true&theme=gotham&hide=contribs,stars" alt="Sarahanyans github stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sarahanyan&show_icons=true&theme=gotham&hide=contribs,stars" alt="Sarahanyans github stats" />
 
 </div>
