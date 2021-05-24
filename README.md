@@ -1,3 +1,4 @@
+<section style="width:80%; margin:0 auto">
 ### Hello there :smiley: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=Sarahanyan.Sarahanyan) -->
@@ -29,8 +30,8 @@ My name is Sarah Anyango and I am a self-taught fullstack developer. I enjoy the
 </a><br>
 
 
-📈 My GitHub Stats
+📈 **My GitHub Stats**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sarahanyan&show_icons=true&theme=gotham&hide=contribs,stars" alt="Sarahanyans github stats" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Sarahanyan&show_icons=true&theme=gotham&hide=contribs,stars" alt="Sarahanyans github stats" />
 
-
+</section>
